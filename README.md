@@ -28,7 +28,7 @@ The website uses an editorial and immersive visual direction with large typograp
 
 The visual identity is built around:
 
-Link to the Landing Page: 
+Link to the Landing Page: https://daviiliev.github.io/aurelis-architectural-lighting-landing-page/
 
 - Graphite black
 - Warm off-white
